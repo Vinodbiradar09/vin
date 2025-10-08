@@ -357,10 +357,10 @@ const Portfolio = () => {
               viewport={{ once: true }}
               className="flex justify-center gap-6"
             >
-              <SocialLink icon={<Mail size={28} />} href="mailto:vinodjb77@gmail.com" theme={theme} />
+              <SocialLink icon={<Mail size={28} />} href="mailto:vinodjb07@gmail.com" theme={theme} />
               <SocialLink icon={<Github size={28} />} href="https://github.com/Vinodbiradar09" theme={theme} />
               <SocialLink icon={<Twitter size={28} />} href="https://x.com/toovinod09" theme={theme} />
-              <SocialLink icon={<Linkedin size={28} />} href="https://www.linkedin.com/in/yourprofile" theme={theme} />
+              <SocialLink icon={<Linkedin size={28} />} href="https://www.linkedin.com/in/vinod-biradar-752255344/" theme={theme} />
             </motion.div>
           </div>
         </section>
